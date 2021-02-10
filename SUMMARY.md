@@ -6,6 +6,7 @@
 * [Troubleshooting](troubleshooting/index.md)
 * [kafka streams](kafka-streams/index.md)
 * [Reference](reference/index.md)
+    * [Topology](reference/topology.md)
 * [Contributors](contributors.md)
 * [About this workshop](introduction/about-this-workshop.md)
     * [Workshop conventions](introduction/workshop-conventions.md)
