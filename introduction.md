@@ -1,9 +1,6 @@
 # Kafka and Clojure - Immutable event streams
 
->#### Warning::This workshop has only just started to be written
-
 ![Kafka](https://kafka.apache.org/images/kafka_diagram.png)
-
 
 [Kafka](https://kafka.apache.org/) is Kafka is used for building real-time data pipelines and streaming apps. It is horizontally scalable, fault-tolerant, extremely fast and runs in production in thousands of companies (Braintree).
 
@@ -15,6 +12,9 @@
 * Concurrency and IPC capabilities
 * Clojure's sequence abstractions simplified the code and made testing easy
 
+> #### Hint::Currently under development
+> This book is not complete and has a great deal of content to add.
+
 
 ## Tutorials
 * [Apache Kafka - quickstart](https://kafka.apache.org/quickstart)
@@ -24,13 +24,13 @@
 * [Kafka in Clojure](https://techblog.roomkey.com/posts/clojure-kafka.html)
 * [Writing a Kafka Producer and High Level Consumer in Clojure](https://wtfleming.github.io/2015/01/14/kafka-clojure-producer-consumer/)
 * [Hello World Kafka](https://github.com/SubhaSingh/hello_world_kafka)
-*
 
 
 ## Libraries and projects
 * [franzy](https://github.com/clj-kafka/franzy) - suite of Clojure libraries for Apache Kafka. It includes libraries for Kafka consumers, producers, partitioners, callbacks, serializers, and deserializers.
 * [Kafka Streams Clojure](https://github.com/bobby/kafka-streams-clojure) - Clojure transducers interface to Kafka Streams. This combo provides the best of both worlds for building streaming applications on Kafka with Clojure
 * [milena](https://github.com/dvlopt/milena) - This Kafka client library allows the user to exchange records while speaking clojure
+* [jackdaw]()
 
 
 ## Presentations on Kafka
