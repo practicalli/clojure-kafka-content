@@ -17,4 +17,4 @@ cp -f images/favicon_io/favicon.ico _book/gitbook/images/favicon.ico
 cp -f images/favicon_io/apple-touch-icon.png _book/gitbook/images/apple-touch-icon-precomposed-152.png
 
 # Deploy new build
-cd _book && rm -rf .git && git init && git add . && git commit -m "initial commit" && git remote add practicalli git@github.com:practicalli/clojure-with-kafka.git && git push -f practicalli gh-pages
+cd _book && rm -rf .git && git init && git add . && git commit -m "initial commit" && git remote add practicalli git@github.com:practicalli/clojure-with-kafka.git && git push -f practicalli live
