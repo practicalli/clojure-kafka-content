@@ -30,7 +30,7 @@
 * [franzy](https://github.com/clj-kafka/franzy) - suite of Clojure libraries for Apache Kafka. It includes libraries for Kafka consumers, producers, partitioners, callbacks, serializers, and deserializers.
 * [Kafka Streams Clojure](https://github.com/bobby/kafka-streams-clojure) - Clojure transducers interface to Kafka Streams. This combo provides the best of both worlds for building streaming applications on Kafka with Clojure
 * [milena](https://github.com/dvlopt/milena) - This Kafka client library allows the user to exchange records while speaking clojure
-* [jackdaw]()
+* [fundingcircle/jackdaw](https://fundingcircle.github.io/jackdaw/) - Clojur library for Apache Kafka
 
 
 ## Presentations on Kafka
