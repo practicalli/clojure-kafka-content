@@ -4,6 +4,7 @@
     * [Kafka and Clojure](introduction/index.md)
     * [About this book](introduction/about-this-workshop.md)
 * [Troubleshooting](troubleshooting/index.md)
+* [kafka streams](kafka-streams/index.md)
 * [Reference](reference/index.md)
 * [Contributors](contributors.md)
 * [About this workshop](introduction/about-this-workshop.md)
